@@ -1,0 +1,12 @@
+.Order {
+  width: 80%;
+  border: 2px solid #ccc;
+  box-shadow: 0 2px 3px #eee;
+  padding: 10px;
+  margin: 10px auto;
+  box-sizing: border-box;
+}
+.Order:hover {
+  background-color: rgba(219, 210, 198, 0.459);
+  cursor: pointer;
+}
